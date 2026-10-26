@@ -4,3 +4,6 @@
 [🍂 View Fall in Wisconsin Gallery](./fall-gallery.html)
 
 [📰 View News Article](./news-article.pdf)
+
+[📰 View Math Test](./mathtest.html)
+
